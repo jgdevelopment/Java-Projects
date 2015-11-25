@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=Token(java.lang.String)
+comment0.text=\n\ \ Create\ a\ new\ token\ with\ an\ empty\ attribute\ list\ and\ given\ type\n\ \ @param\ type\ The\ token\ tag\ type\n
+comment1.params=
+comment1.target=AttributePair\ getFirstAttribute()
+comment1.text=\n\ This\ method\ is\ available\ primarily\ to\ assist\ in\ the\ non-list\n\ stage\ of\ the\ CS2\ assignment.\n\ \n\ @return\ the\ first\ AttributePair\ or\ null\ if\ there\ are\ no\ attributes\n
+comment2.params=
+comment2.target=java.util.Iterator\ getattributes()
+comment2.text=\n\ @return\ an\ iterator\ for\ the\ parameter\ list\n
+comment3.params=
+comment3.target=Tag\ getTag()
+comment3.text=\n\ @return\ the\ name\ of\ the\ tag\n
+comment4.params=name\ value
+comment4.target=void\ addAttribute(java.lang.String,\ java.lang.String)
+comment4.text=\n\ Add\ a\ new\ attribute\ to\ the\ end\ of\ the\ parameter\ list\n\ @param\ name\ The\ name\ of\ the\ parameter\n\ @param\ value\ The\ value\ of\ the\ parameter\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ @return\ a\ string\ representing\ the\ tag\ name\ and\ it's\ associated\ list\ of\ attributes\n
+numComments=6

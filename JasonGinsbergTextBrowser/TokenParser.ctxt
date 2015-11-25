@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=page
+comment0.target=TokenParser(java.util.Scanner)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ TokenParser\n
+comment1.params=
+comment1.target=boolean\ hasNextToken()
+comment2.params=
+comment2.target=Token\ nextToken()
+comment2.text=\n\ @return\ the\ next\ token\ in\ the\ stream\n
+comment3.params=tokentext
+comment3.target=Token\ makeTextToken(java.lang.String)
+comment4.params=tokentext
+comment4.target=Token\ makeTagToken(java.lang.String)
+comment4.text=\n\ tokentext\ is\ in\ the\ form\n\ \n\ tagpattern\ \=\ <\\\\s*[^>]*\\\\s*>\n\ \n\ type\ part\ must\ be\ terminated\ by\ a\ space\n
+numComments=5

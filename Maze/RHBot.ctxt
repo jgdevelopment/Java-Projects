@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=pos\ maze
+comment0.target=RHBot(Location,\ Maze)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=boolean\ canGoForward()
+comment4.params=
+comment4.target=boolean\ canGoRight()
+comment5.params=
+comment5.target=boolean\ canGoLeft()
+comment6.params=
+comment6.target=boolean\ canMove()
+numComments=7

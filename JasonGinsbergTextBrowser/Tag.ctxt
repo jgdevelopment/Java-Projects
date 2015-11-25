@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=tagString
+comment0.target=Tag(java.lang.String)
+comment0.text=\n\ Initialize\ with\ the\ corresponding\ command\ word.\n\ @param\ tagString\ The\ tag\ string\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ @return\ The\ tag\ given\ as\ a\ string.\n
+numComments=2

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=rows\ cols
+comment0.target=Maze(int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Maze\n
+comment1.params=
+comment1.target=int\ numRows()
+comment1.text=\n\ @\ return\ number\ of\ rows\ in\ the\ maze\n
+comment2.params=
+comment2.target=int\ numCols()
+comment2.text=\n\ @return\ number\ of\ columns\ in\ the\ maze\n
+comment3.params=pos\ item
+comment3.target=java.lang.Object\ put(Location,\ java.lang.Object)
+comment3.text=\n\ @param\ pos\ is\ a\ valid\ position\ in\ the\ maze\n\ @param\ item\ is\ data\ to\ place\ in\ position\n\ @return\ the\ old\ value\ at\ pos\ or\ null\ if\ no\ item\ was\ there\n\ Throw\ IndexOutOfBounds\ error\ if\ pos\ is\ not\ valid\n
+comment4.params=pos
+comment4.target=java.lang.Object\ get(Location)
+comment4.text=\n\ @return\ the\ item\ at\ pos\n\ throw\ IndexOutOfBounds\ error\ if\ pos\ is\ not\ valid\n
+comment5.params=pos
+comment5.target=boolean\ isValid(Location)
+comment5.text=\n\ @param\ pos\ a\ possible\ position\ in\ the\ maze\n\ @return\ true\ if\ pos\ is\ valid,\ false\ otherwise\n
+comment6.params=pos
+comment6.target=java.util.List\ neighbors(Location)
+comment6.text=\n\ Note\:\ the\ Location\ class\ defines\ direction\ constants\n\ @return\ a\ List\ of\ 4\ neighboring\ valid\ cell\ Locations\ (N,\ S,\ E,\ W)\n\ \n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ @return\ a\ string\ in\ row-col\ major\ form\ that\ shows\ the\ maze\ in\n\ a\ useful\ 2D\ manner\n
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=BrowserRenderer(java.util.Scanner)
+comment1.params=
+comment1.target=void\ loadPage()
+comment2.params=index
+comment2.target=java.lang.String\ getLink(int)
+numComments=3

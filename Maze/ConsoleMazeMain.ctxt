@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=mazeFilename\ robotType
+comment0.target=ConsoleMazeMain(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ConsoleMaze\n\ You\ can\ make\ your\ own\ maze\ files\ too\ -\ just\ follow\ the\ format\n\ of\ the\ provided\ maze1\ file.\n\ \n\ Uncomment\ robot\ types\ when\ you\ have\ written\ the\ classes\n\ \n\ @param\ mazeFilename\ enter\ "maze1"\ without\ the\ extension\ .txt\n\ @param\ robotType\ the\ kind\ of\ robot\ to\ put\ in\ the\ maze,\ random\ or\ rhbot,\ add\ others\ as\ needed\n
+comment1.params=filename
+comment1.target=void\ createMaze(java.lang.String)
+comment1.text=\n\ Read\ the\ file\ and\ create\ a\ maze.\ \ Files\ must\ be\ in\ the\ user\ directory\ where\n\ the\ java\ source\ files\ exist.\n\ @param\ filename\ the\ name\ of\ the\ maze\ file,\ no\ ".txt"\ extension\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\n\ primary\ maze\ loop,\ press\ enter\ to\ go\ one\ more\ step\n\ works\ best\ if\ the\ maze\ class\ toString\ displays\ the\ CONTENTS\ of\n\ the\ maze\ followed\ by\ a\ "\\t"\ tab\ character.\ \ This\ will\ display\ WALL,\ PASSAGE,\ ROBOT\n\ in\ a\ grid\ like\ form\ with\ columns\ and\ rows\ aligned.\n
+numComments=3

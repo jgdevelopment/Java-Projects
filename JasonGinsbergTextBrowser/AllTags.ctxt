@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AllTags()
+comment0.text=\n\ Constructor\ -\ initialize\ the\ command\ word\ maps\n
+comment1.params=tokenText
+comment1.target=Tag\ getTagMatch(java.lang.String)
+comment1.text=\n\ Find\ the\ Tag\ associated\ with\ token\ text\ \n\ @param\ tokenText\ The\ tag\ to\ look\ up.\n\ @return\ The\ Tag\ correspondng\ to\ the\ tokenText\ or\ UNKNOWN\n\ \ \ \ \ \ \ \ \ if\ it\ is\ not\ a\ known\ tag\n
+comment2.params=aString
+comment2.target=boolean\ isTag(java.lang.String)
+comment2.text=\n\ Check\ whether\ a\ given\ String\ is\ a\ valid\ tag\ \n\ @return\ true\ if\ aString\ is\ a\ known\ tag,\ false\ if\ it\ isn't.\n
+numComments=3

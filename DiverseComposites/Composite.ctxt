@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=long\ count(long)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Composite\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=composite\ limit\ index\ distinct
+comment2.target=long\ makeComposite(long,\ long,\ int,\ int)
+comment3.params=limit
+comment3.target=java.util.ArrayList\ createPrimes(long)
+numComments=4

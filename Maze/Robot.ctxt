@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=pos\ maze
+comment0.target=Robot(Location,\ Maze)
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=boolean\ canMove()
+comment4.params=
+comment4.target=void\ turn()
+comment5.params=
+comment5.target=int\ getDirection()
+comment6.params=dir
+comment6.target=void\ setDirection(int)
+comment7.params=
+comment7.target=Location\ getLocation()
+comment8.params=toPos
+comment8.target=void\ changeLocation(Location)
+comment9.params=
+comment9.target=Maze\ getMaze()
+numComments=11

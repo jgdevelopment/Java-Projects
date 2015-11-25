@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ numRows()
+comment0.text=\n\ @\ return\ number\ of\ rows\ in\ the\ maze\n
+comment1.params=
+comment1.target=int\ numCols()
+comment1.text=\n\ @return\ number\ of\ columns\ in\ the\ maze\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ @return\ a\ string\ in\ row-col\ major\ form\ that\ shows\ the\ maze\ in\n\ a\ useful\ 2D\ manner\n
+numComments=3

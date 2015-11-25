@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=row\ col
+comment1.target=void\ initializeBoard(int,\ int)
+comment2.params=event
+comment2.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment3.params=
+comment3.target=void\ borderColor()
+comment4.params=r\ c
+comment4.target=void\ toggle(int,\ int)
+comment5.params=
+comment5.target=void\ endTest()
+comment6.params=
+comment6.target=void\ undo()
+comment7.params=
+comment7.target=void\ solution()
+comment8.params=
+comment8.target=void\ changeBackgroundColor()
+numComments=9
